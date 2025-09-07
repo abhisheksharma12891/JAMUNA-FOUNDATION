@@ -31,3 +31,14 @@ h2 {
   margin-bottom: 1rem;
   color: #004aad;
 }
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  background: #eaeaea;
+  padding: 0.5rem;
+  margin: 0.3rem 0;
+  border-radius: 4px;
+}
